@@ -1,0 +1,7 @@
+pyaudio
+Flask
+bytesbufio
+gTTS
+pygame==2.4.0
+textblob==0.17.1
+deep-translator==1.9.1
